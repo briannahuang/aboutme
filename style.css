@@ -1,0 +1,45 @@
+
+h1 {
+  font-size: 50px;
+}
+
+body {
+  font-family: 'Gaegu', cursive;
+}
+
+#bio {
+  background-color: #ffe9ec;
+}
+
+#school {
+  background-color: #ffedcc;
+}
+
+#swim {
+  background-color: #fefdde;
+}
+
+#photo {
+  background-color: #e3ffea;
+}
+
+#like {
+  background-color: #e8f3ff;
+}
+
+#head {
+  color: #008080;
+}
+
+#title{
+  color: #008080;
+}
+
+#facts{
+  background-color: #eef6ff;
+}
+
+
+#home{
+  background-color: #E8DAEF;
+}
